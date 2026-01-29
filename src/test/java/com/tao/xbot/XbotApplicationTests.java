@@ -1,0 +1,13 @@
+package com.tao.xbot;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class XbotApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
