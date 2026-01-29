@@ -8,7 +8,6 @@ public class XbotApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(XbotApplication.class, args);
-		System.out.println("XbotApplication started");
 	}
 
 }
